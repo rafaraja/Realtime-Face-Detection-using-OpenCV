@@ -1,1 +1,1 @@
-# Realtime-Face-Detection-using-PyTorch
+# Realtime-Face-Detection-using-OpenCV
